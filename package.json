@@ -1,7 +1,7 @@
 {
-  "name": "MarionetteWPBoilerplate",
+  "name": "marionette-node-bootstrap-webpack-boilerplate",
   "version": "0.0.1",
-  "description": "Marionette Boilerplate using npm and webpack and bootstrap",
+  "description": "marionette-node-bootstrap-webpack-boilerplate",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
